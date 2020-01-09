@@ -1,0 +1,53 @@
+
+#div-container{
+    width:100%;
+    height: 1000px;
+   
+}
+
+#first-img{
+    width:100%;
+    height:400px;
+    background-color:red;
+}
+#first-img img{
+    width:100%;
+    height:400px;
+}
+
+/*begeninf of content-- end of header*/
+#article{
+    width:100%;
+    height: 600px;
+   
+    margin-top:40px;
+}
+#article .div1{
+    width: 30%;
+    height:500px;
+   float:right;
+   margin-right:40px;
+
+}
+
+/*end of content begining of footer*/
+
+ #footer{
+  background-color:black;
+  width:100%;
+  height:160px;
+ }
+ #footer h3{
+    color:white;
+    float:right;
+    padding:30px;
+    padding-right:70px;
+ }
+ #footer h4{
+    color:white;
+    float:right;
+    padding-right: 600px;
+    margin-top:0px;
+ }
+
+
